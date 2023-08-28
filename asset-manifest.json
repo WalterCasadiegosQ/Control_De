@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Control_De_Tareas_Pendientes/static/css/main.9252513e.css",
+    "main.js": "/Control_De_Tareas_Pendientes/static/js/main.ee23c004.js",
+    "index.html": "/Control_De_Tareas_Pendientes/index.html",
+    "static/media/delete.svg": "/Control_De_Tareas_Pendientes/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Control_De_Tareas_Pendientes/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.9252513e.css.map": "/Control_De_Tareas_Pendientes/static/css/main.9252513e.css.map",
+    "main.ee23c004.js.map": "/Control_De_Tareas_Pendientes/static/js/main.ee23c004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9252513e.css",
+    "static/js/main.ee23c004.js"
+  ]
+}
